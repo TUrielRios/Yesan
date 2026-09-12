@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Menu, X, Disc, User, Cpu, ShieldCheck, Mail } from 'lucide-react';
+import { Menu, X, Disc, User, Cpu, Mail } from 'lucide-react';
 
 export const Header = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -8,7 +8,6 @@ export const Header = () => {
     { label: '// DISCOGRAPHY', href: '#discography', icon: Disc },
     { label: '// BIOGRAPHY', href: '#bio', icon: User },
     { label: '// STUDIO RIG', href: '#rig', icon: Cpu },
-    { label: '// LLC ENTITY', href: '#llc', icon: ShieldCheck },
   ];
 
   const handleNavClick = (e, href) => {
@@ -25,7 +24,7 @@ export const Header = () => {
       <div className="header-inner">
         <a href="#hero" className="brand-logo" onClick={(e) => handleNavClick(e, '#hero')}>
           <span className="logo-bold">YESAN</span>
-          <span className="logo-tag">[ARTIST & PROD. LLC]</span>
+          <span className="logo-tag">[ARTIST & PRODUCER]</span>
         </a>
 
         {/* Desktop Navigation */}

@@ -11,7 +11,7 @@ export const Footer = () => {
     <footer className="site-footer">
       <div className="container footer-inner">
         <div className="footer-left">
-          <span className="footer-brand">YESAN MUSIC LLC</span>
+          <span className="footer-brand">Montana Nevada LLC</span>
           <span className="footer-copy">&copy; {new Date().getFullYear()} YESAN. TODOS LOS DERECHOS RESERVADOS.</span>
         </div>
 

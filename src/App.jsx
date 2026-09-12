@@ -4,7 +4,6 @@ import { Hero } from './components/Hero';
 import { Discography } from './components/Discography';
 import { Biography } from './components/Biography';
 import { StudioRig } from './components/StudioRig';
-import { LlcSection } from './components/LlcSection';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
 import { AudioBar } from './components/AudioBar';
@@ -39,7 +38,6 @@ export function App() {
         />
         <Biography />
         <StudioRig />
-        <LlcSection />
         <Contact />
       </main>
 
