@@ -13,7 +13,7 @@ export const LlcSection = () => {
               <ShieldCheck size={16} style={{ display: 'inline', marginRight: '6px', color: '#ffffff' }} />
               [ENTIDAD LEGAL & CORPORATIVA OFICIAL]
             </div>
-            <h2 className="llc-title">YESAN MUSIC LLC</h2>
+            <h2 className="llc-title">MONTANA NEVADA LLC</h2>
             <p className="llc-subtitle">
               REGISTRO CORPORATIVO, PUBLICACIÓN DE OBRAS MUSICALES Y LICENCIAMIENTO
             </p>

@@ -9,7 +9,7 @@ export const Hero = ({ currentTrackKey, onSelectTrack }) => {
     '• SIN MIRAR',
     '• MORDIENDO EL BOZAL',
     '• VIDA DE ROCK',
-    '• YESAN MUSIC LLC',
+    '• MONTANA NEVADA LLC',
     '• LIVE GUITARS & TRAP-ROCK',
     '• MASTER RECORDING & SYNC RIGHTS',
   ];

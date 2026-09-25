@@ -58,7 +58,7 @@ export const Biography = () => {
                 Con sencillos solistas y obras como <em>"Chico Estrella"</em>, <em>"Psicopatía"</em>, <em>"Sin Mirar"</em> y colaboraciones en dúo como <em>"Mordiendo el Bozal"</em> (junto a YSY A), Yesan interpreta, compone e instrumenta cada pieza desde la guitarra eléctrica analógica hasta el diseño de sintes modulares.
               </p>
               <p>
-                A través de su entidad legal corporativa <strong>YESAN MUSIC LLC</strong>, gestiona sus lanzamientos solistas, servicios de producción musical integral, co-autoría, composición de letras y melodías vocales, así como derechos de sincronización para plataformas y proyectos internacionales.
+                A través de su entidad legal corporativa <strong>MONTANA NEVADA LLC</strong>, gestiona sus lanzamientos solistas, servicios de producción musical integral, co-autoría, composición de letras y melodías vocales, así como derechos de sincronización para plataformas y proyectos internacionales.
               </p>
             </div>
 

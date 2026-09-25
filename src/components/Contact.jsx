@@ -36,7 +36,7 @@ export const Contact = () => {
       setIsSubmitting(false);
       setSubmissionStatus({
         type: 'success',
-        message: `// TRANSMISIÓN EXITOSA.\nCONSULTA RECIBIDA DE [${formData.name.toUpperCase()}]. EL MANAGEMENT DE YESAN MUSIC LLC RESPONDERÁ A [${formData.email.toUpperCase()}] EN MENOS DE 24 HORAS.`
+        message: `// TRANSMISIÓN EXITOSA.\nCONSULTA RECIBIDA DE [${formData.name.toUpperCase()}]. EL MANAGEMENT DE MONTANA NEVADA LLC RESPONDERÁ A [${formData.email.toUpperCase()}] EN MENOS DE 24 HORAS.`
       });
       setFormData({ name: '', email: '', inquiryType: '', message: '' });
     }, 1200);
@@ -161,7 +161,7 @@ export const Contact = () => {
                   <option value="" disabled>Seleccionar tipo de proyecto...</option>
                   <option value="vocal">Feat / Participación como Cantante</option>
                   <option value="production">Producción Musical / Beat Direction</option>
-                  <option value="licensing">Licencias Sync & Master (YESAN MUSIC LLC)</option>
+                  <option value="licensing">Licencias Sync & Master (MONTANA NEVADA LLC)</option>
                   <option value="album">Producción Ejecutiva de Álbum Completo</option>
                   <option value="press">Prensa & Corporativo LLC</option>
                 </select>
